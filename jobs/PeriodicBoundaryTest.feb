@@ -788,6 +788,246 @@
 				<value>1</value>
 			</child_dof>
 		</bc>
+		<bc name="LinearConstraint28" type="linear constraint">
+			<dof>y</dof>
+			<node>32</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>31</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint29" type="linear constraint">
+			<dof>y</dof>
+			<node>33</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>34</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint30" type="linear constraint">
+			<dof>y</dof>
+			<node>36</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>35</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint31" type="linear constraint">
+			<dof>y</dof>
+			<node>37</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>38</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint32" type="linear constraint">
+			<dof>y</dof>
+			<node>122</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>121</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint33" type="linear constraint">
+			<dof>y</dof>
+			<node>123</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>124</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint34" type="linear constraint">
+			<dof>y</dof>
+			<node>126</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>125</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint35" type="linear constraint">
+			<dof>y</dof>
+			<node>127</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>x</dof>
+				<node>128</node>
+				<value>-1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint36" type="linear constraint">
+			<dof>x</dof>
+			<node>32</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>31</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint37" type="linear constraint">
+			<dof>x</dof>
+			<node>33</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>34</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint38" type="linear constraint">
+			<dof>x</dof>
+			<node>36</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>35</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint39" type="linear constraint">
+			<dof>x</dof>
+			<node>37</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>38</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint40" type="linear constraint">
+			<dof>x</dof>
+			<node>122</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>121</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint41" type="linear constraint">
+			<dof>x</dof>
+			<node>123</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>124</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint42" type="linear constraint">
+			<dof>x</dof>
+			<node>126</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>125</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint43" type="linear constraint">
+			<dof>x</dof>
+			<node>127</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>128</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint44" type="linear constraint">
+			<dof>z</dof>
+			<node>32</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>31</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint45" type="linear constraint">
+			<dof>z</dof>
+			<node>33</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>34</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint46" type="linear constraint">
+			<dof>z</dof>
+			<node>36</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>35</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint47" type="linear constraint">
+			<dof>z</dof>
+			<node>37</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>38</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint48" type="linear constraint">
+			<dof>z</dof>
+			<node>122</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>121</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint49" type="linear constraint">
+			<dof>z</dof>
+			<node>123</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>124</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint50" type="linear constraint">
+			<dof>z</dof>
+			<node>126</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>125</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint51" type="linear constraint">
+			<dof>z</dof>
+			<node>127</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>z</dof>
+				<node>128</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
 	</Boundary>
 	<Contact>
 		<contact name="SlidingElastic1" surface_pair="SlidingElastic1" type="sliding-elastic">
