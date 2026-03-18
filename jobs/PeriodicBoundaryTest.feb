@@ -628,6 +628,86 @@
 				<value>-1</value>
 			</child_dof>
 		</bc>
+		<bc name="LinearConstraint12" type="linear constraint">
+			<dof>x</dof>
+			<node>31</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>32</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint13" type="linear constraint">
+			<dof>x</dof>
+			<node>34</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>33</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint14" type="linear constraint">
+			<dof>x</dof>
+			<node>35</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>36</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint15" type="linear constraint">
+			<dof>x</dof>
+			<node>38</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>37</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint16" type="linear constraint">
+			<dof>x</dof>
+			<node>121</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>122</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint17" type="linear constraint">
+			<dof>x</dof>
+			<node>124</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>123</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint18" type="linear constraint">
+			<dof>x</dof>
+			<node>125</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>126</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
+		<bc name="LinearConstraint19" type="linear constraint">
+			<dof>x</dof>
+			<node>128</node>
+			<offset>0</offset>
+			<child_dof>
+				<dof>y</dof>
+				<node>127</node>
+				<value>1</value>
+			</child_dof>
+		</bc>
 	</Boundary>
 	<Contact>
 		<contact name="SlidingElastic1" surface_pair="SlidingElastic1" type="sliding-elastic">
