@@ -42,7 +42,7 @@
 	</Globals>
 	<Material>
 		<material id="1" name="Material1" type="reactive plasticity">
-			<density>0.01</density>
+			<density>0.1</density>
 			<isochoric>1</isochoric>
 			<rtol>0.0001</rtol>
 			<secant_tangent>1</secant_tangent>
@@ -61,7 +61,7 @@
 			</flow_curve>
 		</material>
 		<material id="2" name="Material2" type="reactive plasticity">
-			<density>0.01</density>
+			<density>0.1</density>
 			<isochoric>1</isochoric>
 			<rtol>0.0001</rtol>
 			<secant_tangent>1</secant_tangent>
