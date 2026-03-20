@@ -625,7 +625,7 @@
 		</bc>
 		<bc name="PrescribedDisplacement3" node_set="@surface:PrescribedDisplacement3" type="prescribed displacement">
 			<dof>z</dof>
-			<value lc="1">-0.05</value>
+			<value lc="1">-0.1</value>
 			<relative>0</relative>
 		</bc>
 	</Boundary>
