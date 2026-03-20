@@ -657,16 +657,16 @@
 		</contact>
 		<contact name="PeriodicBoundary2" surface_pair="PeriodicBoundary2" type="periodic boundary">
 			<laugon>AUGLAG</laugon>
-			<tolerance>1</tolerance>
-			<penalty>0</penalty>
+			<tolerance>0.01</tolerance>
+			<penalty>100</penalty>
 			<two_pass>0</two_pass>
 			<offset>0,0,0</offset>
 			<minaug>0</minaug>
 		</contact>
 		<contact name="PeriodicBoundary3" surface_pair="PeriodicBoundary3" type="periodic boundary">
 			<laugon>AUGLAG</laugon>
-			<tolerance>1</tolerance>
-			<penalty>0</penalty>
+			<tolerance>0.01</tolerance>
+			<penalty>100</penalty>
 			<two_pass>0</two_pass>
 			<offset>0,0,0</offset>
 			<minaug>0</minaug>
